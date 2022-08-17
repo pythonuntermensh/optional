@@ -7,5 +7,6 @@ import Portfolio from './portfolio/Portfolio'
 import Testimonials from './testimonials/Testimonials'
 import Contact from './contact/Contact'
 import Footer from './footer/Footer'
+import Modal from './modal/Modal'
 
-export { Header, Nav, About, Experience, Services, Portfolio, Testimonials, Contact, Footer }
+export { Header, Nav, About, Experience, Services, Portfolio, Testimonials, Contact, Footer, Modal }
